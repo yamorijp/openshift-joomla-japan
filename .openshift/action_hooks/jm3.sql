@@ -1,6 +1,5 @@
 -- MySQL dump 10.13  Distrib 5.1.69, for redhat-linux-gnu (x86_64)
 --
--- Host: 127.9.117.2    Database: site
 -- ------------------------------------------------------
 -- Server version	5.1.69
 
@@ -15,13 +14,6 @@
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
---
--- Current Database: `site`
---
-
-CREATE DATABASE /*!32312 IF NOT EXISTS*/ `site` /*!40100 DEFAULT CHARACTER SET utf8 */;
-
-USE `site`;
 
 --
 -- Table structure for table `jm3_assets`
